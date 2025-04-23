@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hii I'm Subash Kumar Yadav:
 🔭 I’m currently pursuing  bachelor degree in computer engineering <br>👯 I’m currently working as front end developer <br>🤝 I’m looking for help with MERN stacks<br>🌱 I’m currently learning AI & ML with deep learning <br>💬 Ask me about My Tech stack and current market status <br>⚡ I love traveling, playing football, old music , coding and innovations 
 
 
