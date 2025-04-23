@@ -22,8 +22,9 @@
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subash-0" alt="subash-0" /></a></p>
 
 
-### Total Views
-<div align="center">
+
+<div align="left">
+ <h3> Total Views <h3>
   <img src="https://profile-counter.glitch.me/subash-0/count.svg?"  />
 </div>
 
