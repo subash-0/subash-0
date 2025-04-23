@@ -1,6 +1,7 @@
 
 <img src="/github_banner.png" width="100%" height="100%" align="left">
 <br>
+<br>
 
 
 # 💫 About Me:
