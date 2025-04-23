@@ -1,5 +1,5 @@
 <div style="margin-bottom: 40px;">
-  <img src="/github_banner.png" width="100%" height="100%" align="left">
+ [[!MasterHead]<img src="/github_banner.png" width="100%" height="100%" align="left">] 
 </div>
 
 
@@ -7,8 +7,6 @@
 
 # 💫 About Me:
 🔭 I’m currently pursuing  bachelor degree in computer engineering <br>👯 I’m currently working as front end developer <br>🤝 I’m looking for help with MERN stacks<br>🌱 I’m currently learning AI & ML with deep learning <br>💬 Ask me about My Tech stack and current market status <br>⚡ I love traveling, playing football, old music , coding and innovations 
-# 💫 Hii I'm Subash Kumar Yadav:
-🔭 I’m currently pursuing  bachelor degree in computer engineering <br>👯 I’m currently working as front end developer <br>🤝 I’m eager to learn more MERN stacks<br>🌱 I’m currently learning AI & ML with deep learning <br>💬 Ask me about My Tech stack and current market status <br>⚡ I love traveling, playing football, old music , coding and innovations 
 
 
 ## 🌐 Socials:
