@@ -1,6 +1,5 @@
-<div style="margin-bottom: 40px;">
- [[!MasterHead]<img src="/github_banner.png" width="100%" height="100%" align="left">] 
-</div>
+
+<img src="/github_banner.png" width="100%" height="100%" align="left">] 
 
 
 <br> <br>
