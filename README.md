@@ -1,9 +1,8 @@
-<div margin-bottom="20px">
-<img src="/github_banner.png" width="100%" height="100%" align="left" >
+<div style="margin-bottom: 40px;">
+  <img src="/github_banner.png" width="100%" height="100%" align="left">
+</div>
 
 
-
- </div>
 <br> <br>
 
 # 💫 About Me:
