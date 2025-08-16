@@ -17,22 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subash-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subash-0" alt="subash-0" /></a></p>
 
 
 
-<div align="left">
- <h3> Total Views <h3>
-  <img src="https://profile-counter.glitch.me/subash-0/count.svg?"  />
-</div>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subash-0/subash-0/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subash-0/subash-0/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/subash-0/subash-0/output/github-snake.svg" />
-</picture>
