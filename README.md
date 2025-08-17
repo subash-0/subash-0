@@ -4,9 +4,11 @@
 <br>
 
 
+
+
+# <a href="https://subash-kumar-yadav.vercel.app/" target="_blank"> 📌 Portfolio</a>
 # 💫 About Me:
 🔭 I’m currently pursuing  bachelor degree in computer engineering <br>👯 I’m currently working as front end developer <br>🤝 I’m looking for help with MERN stacks<br>🌱 I’m currently learning AI & ML with deep learning <br>💬 Ask me about My Tech stack and current market status <br>⚡ I love traveling, playing football, old music , coding and innovations 
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/allihavenothing) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subash0__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subash-kumar-yadav/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Subash1Yadav) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SKYadav67335) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subash67335@gmail.com) 
