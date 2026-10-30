@@ -178,12 +178,7 @@ I enjoy experimenting with new technologies, exploring development approaches, a
 
 <div align="center">
 
-<a href="https://github.com/subash-0">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=subash-0&show_icons=true&hide_border=true&bg_color=0B1424&title_color=38BDF8&icon_color=F43F5E&text_color=CBD5E1" />
-</a>
-<a href="https://github.com/subash-0">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash-0&layout=compact&hide_border=true&bg_color=0B1424&title_color=38BDF8&text_color=CBD5E1" />
-</a>
+
 
 <br/><br/>
 
