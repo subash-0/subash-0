@@ -1,25 +1,224 @@
+ <div align="center">
 
-<img src="/github_banner.png" width="100%" height="100%" align="left">
-<br>
-<br>
+<img src="./github_banner" width="100%" alt="Dark futuristic mountain landscape" />
 
+# SUBASH KUMAR YADAV
 
+### NEC-REGISTERED COMPUTER ENGINEER · FULL-STACK DEVELOPER · PRODUCT BUILDER
 
+Building digital products that solve real problems.
 
-# <a href="https://subash-kumar-yadav.vercel.app/" target="_blank"> 📌 Portfolio</a>
-# 💫 About Me:
-🔭 I’m currently pursuing  bachelor degree in computer engineering <br>👯 I’m currently working as front end developer <br>🤝 I’m looking for help with MERN stacks<br>🌱 I’m currently learning AI & ML with deep learning <br>💬 Ask me about My Tech stack and current market status <br>⚡ I love traveling, playing football, old music , coding and innovations 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/allihavenothing) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subash0__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subash-kumar-yadav/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Subash1Yadav) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SKYadav67335) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subash67335@gmail.com) 
+<a href="https://portfolio.subashkumaryadav.com.np">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0B1424?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
+</a>
+<a href="https://github.com/subash-0">
+  <img src="https://img.shields.io/badge/GITHUB-0B1424?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="https://linkedin.com/in/subash-kumar-yadav/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0B1424?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:subash67335@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0B1424?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subash-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
+## 01 / PROFESSIONAL PROFILE
 
+<table>
+<tr>
+<td width="34%" valign="top">
 
+### COMPUTER ENGINEER
 
+- 🎓 Computer Engineering Graduate
+- 📜 Nepal Engineering Council Registered
+- 📍 Nepal 🇳🇵
+- 💻 Full-Stack Development
+- 📱 Mobile Application Development
+- 🧠 AI & Machine Learning
 
+</td>
+<td width="66%" valign="top">
 
+I'm a **Computer Engineering graduate and Nepal Engineering Council (NEC)-registered Computer Engineer**, passionate about designing, developing, and building meaningful software products.
+
+My work spans frontend and backend engineering, web applications, and mobile development. I enjoy transforming ideas into practical digital solutions through thoughtful design, clean architecture, and continuous learning.
+
+**Engineering philosophy**
+
+> Understand the problem. Engineer the solution. Build with purpose. Improve continuously.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 02 / FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 DAKSHA
+
+**Education Technology · Web Platform**
+
+A competitive examination preparation platform designed to help students prepare for Nepal Public Service Commission examinations.
+
+**Key features**
+- Online tests and MCQ practice
+- Structured learning materials
+- Subscription-based access
+- Student dashboard and performance tracking
+
+**Technology**
+
+<img src="https://skillicons.dev/icons?i=nextjs,prisma,postgres&theme=dark" />
+
+<a href="https://www.subashkumaryadav.com.np/">Explore DAKSHA →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 P2Tracker
+
+**Productivity · Android Application**
+
+A productivity-focused mobile application designed to help users build consistency, improve focus, and track personal progress.
+
+**Key features**
+- Focus and habit tracking
+- Progress visualization
+- Android application development
+- Custom native functionality
+
+**Technology**
+
+<img src="https://skillicons.dev/icons?i=react,js,android&theme=dark" />
+
+<a href="https://github.com/subash-0?tab=repositories">Explore repositories →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ PERSONAL PORTFOLIO
+
+**Personal Brand · Web Development**
+
+A professional portfolio showcasing my projects, technical skills, experience, and development journey.
+
+**Highlights**
+- Modern responsive interface
+- Interactive animations
+- Project showcases
+- Search engine optimization
+
+**Technology**
+
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,gsap&theme=dark" />
+
+<a href="https://portfolio.subashkumaryadav.com.np">Visit portfolio →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 EXPERIMENTS & EXPLORATION
+
+**Continuous Learning · Engineering**
+
+I enjoy experimenting with new technologies, exploring development approaches, and building solutions that improve my engineering skills.
+
+**Areas of interest**
+- Artificial Intelligence
+- Machine Learning
+- Software architecture
+- Product engineering
+
+<a href="https://github.com/subash-0?tab=repositories">Browse all repositories →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / TECHNICAL SKILLS
+
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html&theme=dark" />
+
+### FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" />
+
+### BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,redis&theme=dark" />
+
+### MOBILE DEVELOPMENT & TOOLS
+
+<img src="https://skillicons.dev/icons?i=react,android,git,github,vercel,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 04 / GITHUB ANALYTICS
+
+<div align="center">
+
+<a href="https://github.com/subash-0">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=subash-0&show_icons=true&hide_border=true&bg_color=0B1424&title_color=38BDF8&icon_color=F43F5E&text_color=CBD5E1" />
+</a>
+<a href="https://github.com/subash-0">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash-0&layout=compact&hide_border=true&bg_color=0B1424&title_color=38BDF8&text_color=CBD5E1" />
+</a>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=subash-0&hide_border=true&background=0B1424&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+
+</div>
+
+---
+
+## 05 / CONNECT WITH ME
+
+I'm open to meaningful collaborations, engineering opportunities, and interesting projects.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/subash-kumar-yadav/">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1424?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+</a>
+<a href="https://instagram.com/subash0__">
+  <img src="https://img.shields.io/badge/Instagram-0B1424?style=for-the-badge&logo=instagram&logoColor=E879F9" />
+</a>
+<a href="https://x.com/Subash1Yadav">
+  <img src="https://img.shields.io/badge/X-0B1424?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+</a>
+<a href="https://youtube.com/@SKYadav67335">
+  <img src="https://img.shields.io/badge/YouTube-0B1424?style=for-the-badge&logo=youtube&logoColor=F43F5E" />
+</a>
+<a href="mailto:subash67335@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B1424?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<br/><br/>
+
+**BUILD WITH CURIOSITY. SHIP WITH PURPOSE.**
+
+<sub>© Subash Kumar Yadav · Computer Engineer · Nepal 🇳🇵</sub>
+
+</div>
