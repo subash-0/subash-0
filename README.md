@@ -202,12 +202,12 @@ I'm open to meaningful collaborations, engineering opportunities, and interestin
 <a href="https://linkedin.com/in/subash-kumar-yadav/">
   <img src="https://img.shields.io/badge/LinkedIn-0B1424?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
-<a href="https://instagram.com/subash0__">
+<a href="https://instagram.com/subash0_">
   <img src="https://img.shields.io/badge/Instagram-0B1424?style=for-the-badge&logo=instagram&logoColor=E879F9" />
 </a>
 
-<a href="[https://youtube.com/@SKYadav67335](https://www.youtube.com/@subash-npl)">
-  <img src="https://img.shields.io/badge/YouTube-0B1424?style=for-the-badge&logo=youtube&logoColor=F43F5E" />
+<a href="https://www.youtube.com/@subash-npl">
+  <img src="https://img.shields.io/badge/YouTube-0B1424?style=for-the-badge&logo=youtube&logoColor=F43F5E" alt="YouTube" />
 </a>
 <a href="mailto:subash67335@gmail.com">
   <img src="https://img.shields.io/badge/Email-0B1424?style=for-the-badge&logo=gmail&logoColor=EA4335" />
