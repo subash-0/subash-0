@@ -205,10 +205,8 @@ I'm open to meaningful collaborations, engineering opportunities, and interestin
 <a href="https://instagram.com/subash0__">
   <img src="https://img.shields.io/badge/Instagram-0B1424?style=for-the-badge&logo=instagram&logoColor=E879F9" />
 </a>
-<a href="https://x.com/Subash1Yadav">
-  <img src="https://img.shields.io/badge/X-0B1424?style=for-the-badge&logo=x&logoColor=FFFFFF" />
-</a>
-<a href="https://youtube.com/@SKYadav67335">
+
+<a href="[https://youtube.com/@SKYadav67335](https://www.youtube.com/@subash-npl)">
   <img src="https://img.shields.io/badge/YouTube-0B1424?style=for-the-badge&logo=youtube&logoColor=F43F5E" />
 </a>
 <a href="mailto:subash67335@gmail.com">
